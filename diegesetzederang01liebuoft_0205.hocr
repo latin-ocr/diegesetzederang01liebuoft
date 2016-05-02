@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diegesetzederang01liebuoft_0205.png"; bbox 0 0 3126 4264; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 970 1497 1954 1588">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 970 1497 1954 1588">
+     <span class='ocr_line' id='line_1_1' title="bbox 970 1497 1954 1588; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 970 1499 1227 1588; x_wconf 88' lang='lat' dir='ltr'><strong>DIE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1305 1497 1954 1588; x_wconf 82' lang='lat' dir='ltr'><strong>GESETZE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1407 1725 1514 1761">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1407 1725 1514 1761">
+     <span class='ocr_line' id='line_1_2' title="bbox 1407 1725 1514 1761; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1407 1725 1514 1761; x_wconf 87' lang='lat' dir='ltr'><strong>DER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 253 1891 2660 2129">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 253 1891 2660 2129">
+     <span class='ocr_line' id='line_1_3' title="bbox 253 1891 2660 1983; baseline 0.001 -9"><span class='ocrx_word' id='word_1_4' title='bbox 253 1891 633 1974; x_wconf 64' lang='lat' dir='ltr'>KC&#39;JNIGE</span> <span class='ocrx_word' id='word_1_5' title='bbox 683 1909 1246 1977; x_wconf 88' lang='lat' dir='ltr'><strong>EADWEARD</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1285 1911 1343 1983; x_wconf 91' lang='grc' dir='ltr'><strong>Ι,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1394 1909 2026 1982; x_wconf 86' lang='lat' dir='ltr'><strong>AETHELSTAN‚</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2084 1907 2569 1972; x_wconf 89' lang='lat' dir='ltr'>EADMUND</span> <span class='ocrx_word' id='word_1_9' title='bbox 2608 1908 2660 1979; x_wconf 88' lang='grc' dir='ltr'><strong>Ι,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 753 2062 2177 2129; baseline -0.001 -1"><span class='ocrx_word' id='word_1_10' title='bbox 753 2064 1165 2129; x_wconf 83' lang='lat' dir='ltr'><strong>EADGAR</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1218 2064 1418 2128; x_wconf 91' lang='lat' dir='ltr'><strong>UND</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1475 2063 2039 2128; x_wconf 86' lang='lat' dir='ltr'><strong>AETHELRED</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2090 2062 2177 2126; x_wconf 94' lang='grc' dir='ltr'><strong>ΙΙ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 3820 106 4264">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 3820 106 4264">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 3820 106 4264; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 3820 106 4264; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
